@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0xBl00dH34rt
+- 👀 I’m interested in the IT sphere and its different directions
+- 🌱 I`m currently studying web development and DevOps
